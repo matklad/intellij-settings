@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="tfn" value="fun `test $END$`()" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_CLASS" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,38 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="EditorSelectWord" />
+      <typing text-keycode="68:0;79:0;83:1;73:0;78:0;71:0;76:0;69:0;67:1;79:0;77:0;80:0;76:0;69:0;84:0;73:0;79:0;78:0">doSingleCompletion</typing>
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorSelectWord" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorSelectWord" />
+      <action id="EditorBackSpace" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorRightWithSelection" />
+      <action id="EditorSelectWord" />
+      <action id="EditorDuplicate" />
+      <action id="EditorLeft" />
+      <typing text-keycode="44:0;32:0">,&amp;#x20;</typing>
+    </macro>
+    <macro name="ttt">
+      <action id="EditorSelectWord" />
+      <action id="EditorSelectWord" />
+      <typing text-keycode="68:0;79:0;84:1;69:0;83:0;84:0;66:1;89:0;84:1;69:0;88:0;84:0;57:1;222:1;222:1;222:1;44:0">doTestByText(&quot;&quot;&quot;,</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorEnter" />
+      <typing text-keycode="222:1;222:1;222:1;44:0;32:0;222:1;222:1;222:1">&quot;&quot;&quot;,&amp;#x20;&quot;&quot;&quot;</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="222:1;222:1;222:1">&quot;&quot;&quot;</typing>
+      <action id="EditorUp" />
+      <action id="EditorLineStart" />
+    </macro>
+  </component>
+</application>
