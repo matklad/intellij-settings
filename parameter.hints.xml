@@ -2,6 +2,7 @@
   <component name="ParameterNameHintsSettings">
     <blacklists>
       <blacklist language="Java" />
+      <blacklist language="Rust" />
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
     </blacklists>
