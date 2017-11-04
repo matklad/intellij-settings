@@ -7,7 +7,13 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="CopyElement" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EvaluateExpression" />
+  <action id="FileChooser.GotoProject" />
+  <action id="GotoBookmark2" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="ctrl 2" />
+  </action>
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
