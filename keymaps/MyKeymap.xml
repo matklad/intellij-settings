@@ -8,9 +8,12 @@
   </action>
   <action id="CopyElement" />
   <action id="DuplicatesForm.SendToRight" />
-  <action id="EvaluateExpression" />
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl 8" />
+  </action>
   <action id="FileChooser.GotoProject" />
   <action id="GotoBookmark2" />
+  <action id="GotoBookmark8" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
@@ -18,9 +21,7 @@
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="QuickEvaluateExpression">
-    <keyboard-shortcut first-keystroke="ctrl alt f8" />
-    <mouse-shortcut keystroke="alt button1" />
-    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="shift ctrl 8" />
   </action>
   <action id="Replace" />
   <action id="RerunFailedTests">
@@ -45,4 +46,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleBookmark8" />
 </keymap>
