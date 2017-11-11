@@ -8,6 +8,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="ft" type="PLAIN_TEXT" />
       <mapping ext="modelbuilderservice" type="PLAIN_TEXT" />
+      <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="fall" type="PLAIN_TEXT" />
       <mapping pattern="IdeaBase" type="XML" />
     </extensionMap>
