@@ -3,9 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.rs" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.java</mask>
       <mask>*.js</mask>
@@ -15,8 +14,6 @@
       <mask>*.im</mask>
       <mask>*.iml</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>CArgo.</mask>
       <mask>CArgo</mask>
       <mask>CArg</mask>
@@ -33,6 +30,11 @@
       <mask>xm</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>.</mask>
+      <mask>8</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.rs</mask>
     </recentFileMasks>
   </component>
 </application>
