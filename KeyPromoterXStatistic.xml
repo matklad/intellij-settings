@@ -57,6 +57,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RsCompleteParsingTestCase.test comment binding'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RsCompleteParsingTestCase.test comment binding'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RsMatchArmUpDownMoverTest.test can't move across different match expressions'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
