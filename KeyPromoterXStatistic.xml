@@ -33,6 +33,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Step Out">
+        <Item>
+          <IdeaActionID>StepOut</IdeaActionID>
+          <ShortCut>'Shift+F8'</ShortCut>
+          <Description>Step Out</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'RsMatchArmUpDownMoverTest.test can't move across different match expressions'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RsMatchArmUpDownMoverTest.test can't move across different match expressions'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RsMatchArmUpDownMoverTest.test step over match arm single line expr'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
