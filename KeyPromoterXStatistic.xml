@@ -73,6 +73,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RsHighlightingPerformanceTest.test highlighting Cargo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RsHighlightingPerformanceTest.test highlighting Cargo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RsMatchArmUpDownMoverTest.test can't move across different match expressions'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
