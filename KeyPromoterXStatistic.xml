@@ -129,6 +129,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RsStructureViewTest.test structs'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RsStructureViewTest.test structs'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RsTypeCheckTest.test type mismatch E0308 primitive'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
