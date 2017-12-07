@@ -113,6 +113,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'RsParamOrArgUpDownMoverTest.test function parameter'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'RsParamOrArgUpDownMoverTest.test function parameter'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'RsStatementUpDownMoverTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
