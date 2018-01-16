@@ -9,7 +9,9 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
     <option name="FONT_SCALE" value="2.25" />
+    <option name="FONT_SIZE" value="20" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
