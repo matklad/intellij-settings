@@ -2,24 +2,36 @@
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="CopyElement" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift ctrl 8" />
   </action>
   <action id="FileChooser.GotoProject" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
   <action id="GotoBookmark2" />
   <action id="GotoBookmark8" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl 2" />
   </action>
+  <action id="NextTab" />
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="PreviousTab" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl 8" />
   </action>
