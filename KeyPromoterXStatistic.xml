@@ -22,7 +22,7 @@
           <IdeaActionID>Rust.DetachCargoProject</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Detach Cargo project</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit...">
