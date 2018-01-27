@@ -1,14 +1,16 @@
 <scheme name="Light" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0833334" />
+  <option name="FONT_SCALE" value="2.25" />
   <metaInfo>
     <property name="created">2017-03-19T11:30:11</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2018-01-24T23:10:57</property>
+    <property name="modified">2018-01-28T00:04:53</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="22" />
+  <option name="EDITOR_FONT_SIZE" value="46" />
   <option name="EDITOR_FONT_NAME" value="Inconsolata" />
+  <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
+  <option name="CONSOLE_FONT_SIZE" value="26" />
   <attributes>
     <option name="DEFAULT_KEYWORD">
       <value>
