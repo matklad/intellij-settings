@@ -297,6 +297,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'intellij-rust [test]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'intellij-rust [test]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
