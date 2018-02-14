@@ -281,6 +281,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Test proof_map_index::tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Test proof_map_index::tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Test retokeization_is_equivalent_to_tokenization'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
