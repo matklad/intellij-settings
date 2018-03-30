@@ -1,5 +1,5 @@
 <keymap version="1" name="MyKeymap" parent="$default">
-  <action id="AceAction">
+  <action id="AceWordAction">
     <keyboard-shortcut first-keystroke="alt k" />
   </action>
   <action id="Back">
