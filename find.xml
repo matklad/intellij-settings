@@ -3,41 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.im</mask>
-      <mask>*.iml</mask>
-      <mask>*.x</mask>
-      <mask>CArgo.</mask>
-      <mask>CArgo</mask>
-      <mask>CArg</mask>
-      <mask>CAr</mask>
-      <mask>CA</mask>
-      <mask>C</mask>
-      <mask>Ca</mask>
-      <mask>Cargo</mask>
-      <mask>Cargo.</mask>
-      <mask>Cargo.t</mask>
-      <mask>Cargo.to</mask>
-      <mask>Cargo.toml</mask>
-      <mask>x</mask>
-      <mask>xm</mask>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
-      <mask>.</mask>
-      <mask>8</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.rs</mask>
-    </recentFileMasks>
   </component>
 </application>
