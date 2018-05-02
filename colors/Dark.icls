@@ -1,17 +1,18 @@
 <scheme name="Dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
     <property name="created">2017-03-18T04:49:15</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2018-04-28T04:49:39</property>
+    <property name="modified">2018-05-02T20:05:25</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
-  <option name="EDITOR_FONT_SIZE" value="24" />
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="32" />
   <option name="EDITOR_FONT_NAME" value="Inconsolata" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Inconsolata" />
-  <option name="CONSOLE_FONT_SIZE" value="16" />
+  <option name="CONSOLE_FONT_SIZE" value="24" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <attributes>
     <option name="DEFAULT_KEYWORD">
