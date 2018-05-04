@@ -25,6 +25,9 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="GotoBookmark2" />
   <action id="GotoBookmark4" />
   <action id="GotoBookmark8" />
