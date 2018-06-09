@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="main" type="PLAIN_TEXT" />
-      <mapping pattern="note" type="PLAIN_TEXT" />
       <mapping pattern="arith" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping pattern="main" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping ext="lalrpop" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
@@ -15,6 +16,7 @@
       <mapping ext="lollipop" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="fall" type="PLAIN_TEXT" />
+      <mapping pattern=".cargo/config" type="TOML file" />
       <mapping pattern="IdeaBase" type="XML" />
     </extensionMap>
   </component>
