@@ -8,7 +8,7 @@
   </component>
   <component name="UISettings">
     <option name="EDITOR_TAB_PLACEMENT" value="0" />
-    <option name="FONT_SCALE" value="1.0833334" />
+    <option name="MAX_CLIPBOARD_CONTENTS" value="50" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="smoothScrolling" value="true" />
   </component>
