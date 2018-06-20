@@ -9,6 +9,7 @@
       <mapping ext="lalrpop" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="back" type="PLAIN_TEXT" />
+      <mapping ext="tom" type="PLAIN_TEXT" />
       <mapping ext="ts" type="PLAIN_TEXT" />
       <mapping ext="modelbuilderservice" type="PLAIN_TEXT" />
       <mapping ext="ft" type="PLAIN_TEXT" />
