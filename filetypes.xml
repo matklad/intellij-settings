@@ -15,6 +15,7 @@
       <mapping ext="ft" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
       <mapping ext="rd" type="PLAIN_TEXT" />
+      <mapping ext="batch" type="PLAIN_TEXT" />
       <mapping ext="lollipop" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="fall" type="PLAIN_TEXT" />
