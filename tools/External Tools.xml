@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="redner-test" description="Renders a libsyntx2 test" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="cargo" />
+      <option name="PARAMETERS" value="--package cli run -- render-test --file $FilePath$ --line $LineNumber$" />
+      <option name="WORKING_DIRECTORY" />
+    </exec>
+  </tool>
+</toolSet>
