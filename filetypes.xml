@@ -11,6 +11,7 @@
       <mapping ext="back" type="PLAIN_TEXT" />
       <mapping ext="tom" type="PLAIN_TEXT" />
       <mapping ext="ts" type="PLAIN_TEXT" />
+      <mapping ext="tera" type="PLAIN_TEXT" />
       <mapping ext="modelbuilderservice" type="PLAIN_TEXT" />
       <mapping ext="ft" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
